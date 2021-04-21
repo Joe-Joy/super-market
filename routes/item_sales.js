@@ -29,7 +29,7 @@ router.post("/inserts", (req, res) => {
 });
 module.exports = router;
 
-// ---------------------------three queries methods------------------------------------------
+// ---------------------------three queries methods
 
 // router.post("/inserts", (req, res) => {
 //   let items_code = req.body.items_code;
