@@ -18,6 +18,8 @@ router.post("/insert", (req, res) => {
   });
 });
 
+// ehuehuwqo
+
 // router.post('/insert',  (req, res) => {
 //   var postData = req.body;
 //   var query = "INSERT INTO item_purchase SET ?"
