@@ -1,4 +1,4 @@
--- table creation in supermarket database
+-- table creation in supermarket data
 CREATE TABLE item_purchase (
     purchase_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     items_code VARCHAR(255) NOT NULL items VARCHAR(255) NOT NULL,
